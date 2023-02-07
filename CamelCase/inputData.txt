@@ -1,0 +1,12 @@
+S;M;plasticCup()
+S;M;plasticCupSecondary()
+C;V;mobile phone
+C;C;coffee machine
+S;C;LargeSoftwareBook
+C;M;white sheet of paper
+S;V;pictureFrame
+C;V;can of coke
+S;M;sweatTea()
+S;V;epsonPrinter
+C;M;santa claus
+C;C;mirror
